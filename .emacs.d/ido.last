@@ -1,0 +1,51 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/xuqiang/Source/python/" . "leetcode/")
+ ("/Users/xuqiang/Source/" . "python/")
+ ("/Users/" . "xuqiang/")
+ ("/Users/xuqiang/" . ".emacs.d/")
+ ("/Applications/" . "AVG Cleaner.app/")
+ ("/" . "Users/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/xuqiang/Source/python/leetcode/"
+ "/Users/xuqiang/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "AdditiveNumber.py"
+ "AbsolutePath.py"
+ "KokoBananas.py"
+ ".emacs"
+ ".bash_profile"
+ ".bashrc"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/xuqiang/" (23380 60510 0 0) "VirtualBox/" "Source/" "Public/" "Pictures/" "OneDrive/" "Music/" "Movies/" "Library/" "GoogleDrive/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".Xauthority" ".vscode/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".tooling/" ".tmux.conf" ".theano/" ".terminfo/" ".templateengine/" ".subversion/" ".stCommitMsg" ".ssh/" ".ServiceHub/" ".scala_history" ".rstudio-desktop/" ".Rhistory" ".Rapp.history" ".python_history" ".python27_compiled/" ".psql_history" ".pgadmin/" ".p2/" ".oracle_jre_usage/" ".openml/" ".nvm/" ".npm/" ".node_repl_history" ".mysql_history" ".mono/" ".matplotlib/" ".matlab/" ".m2/" ".local/" ".lesshst" ".keras/" ".jupyter/" ".ipython/" ".ipe/" ".idlerc/" ".IdentityService/" ".idea-build/" ".hgignore_global" ".gitignore_global" ".gitconfig" ".gem/" ".exrc" ".emacs~" ".emacs.d/" ".emacs" ".eclipse/" ".DS_Store" ".dropbox/" ".docker/" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_profile" ".bash_history" ".atom/" ".appletviewer" ".android/" "../" "./")
+
+ ("/Users/xuqiang/Source/python/leetcode/" (23380 60789 0 0) "WordSearch.py" "WordLadder.py" "WordBreak.py" "WiggleSort.py" "WaterContainer.py" "ValidParenthesis.py" "ValidateAddress.py" "TwentyOneGame.py" "Triangle.py" "template.sh" "TargetSum.py" "SumDistanceTree.py" "SubsetSum.py" "StringGroups.py" "StickersWord.py" "SplitArray.py" "SpecialBinaryString.py" "SortedArraysMedian.py" "SortedArrayMinimum.py" "SmallestSubtree.py" "SmallestGoodBase.py" "SlidingPuzzle.py" "SimiliarStrings.py" "ShortestPathKeys.py" "SetIntersection.py" "SearchMatrix.py" "ScrambleString.py" "RussianDoll.py" "RotatedArray.py" "RemoveParentheses.py" "RefuelingStops.py" "RedundantConnection.py" "ReachNumber.py" "ReachingPoints.py" "QuadTree.py" "PyramidMatrix.py" "ProfitWork.py" "PrimePalindrome.py" "PrimeFraction.py" "PreorderTraversal.py" "PostorderTraversal.py" "Permutations.py" "PeakIndex.py" "PeakElement.py" "PatchingArray.py" "PartitionLabels.py" "ParenthesesScore.py" "PairDistance.py" "NumberIslands.py" "NaryLevelOrderTraversal.py" "MultiplicationTable.py" "MiniPath.py" "Minesweeper.py" "MaxSumRectangle.py" "MaxPoints.py" "MaximumGap.py" "LongestSubstring.py" "LongestPalindromicSubstring.py" "LongestIncreasingSub.py" "LispParser.py" "LevelorderTraversal.py" "KokoBananas.py~" "KokoBananas.py" "KInversePairs.py" "InsertNode.py" "InsertInterval.py" "InorderTraversal.py" "IncreasingPath.py" "ImageOverlap.py" "HireCost.py" "GraphBipartite.py" "FrogJump.py" "FlipMatrix.py" "FlightsWithinStops.py" "FlattenTree.py" "FlattenDoubly.py" "FallingSquares.py" "EqualPartitionSubsets.py" "DungeonGame.py" "DistinctSubsequences.py" "DataStreamIntervals.py" "CrackSafe.py" "CoupleHands.py" "CountRepetitions.py" "ContainDuplicates.py" "CircularLoop.py" "ChunkSorted.py" "ChampagneTower.py" "CarFleet.py" "BusRoutes.py" "BuddyStrings.py" "BoundaryPaths.py" "BinaryTreePathSum.py" "BinaryTreeFactors.py" "BinaryTreeDuplicate.py" "BinarySearchTreeInsert.py" "BinarySearchTree.py" "BinarySearch.py" "BinaryGap.py" "BeautifulArrangement.py" "BalanceTree.py" "AnagramString.py" "AdvantageShuffle.py" "AdditiveNumber.py" "AbsolutePath.py" ".DS_Store" "../" "./")
+
+ ("/Users/xuqiang/.emacs.d/" (23379 29856 0 0) "url/" "snippets/" "ido.last~" "ido.last" "games/" "eshell/" "elpa/" "auto-save-list/" ".gnus.el" "../" "./")
+
+ ("/home/" (23354 9149 768734 0) "../" "./")
+
+ ("/Users/xuqiang/Source/" (23374 53354 0 0) "sql/" "shell/" "README" "r/" "python/" "other/" "ml/" "LICENSE" "java/" "go/" "cpp/" "c/" ".ipynb_checkpoints/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/xuqiang/Source/python/" (23376 23621 0 0) "ref/" "other/" "lpthw/" "leetcode/" "exercise/" "book/" ".DS_Store" "../" "./")
+
+ ("/Applications/AVG Cleaner.app/" (22514 42637 0 0) "Contents/" "../" "./")
+
+ ("/Applications/" (23372 50727 0 0) "Xcode.app/" "Xamarin Workbooks.app/" "Xamarin Profiler.app/" "WhatsApp.app/" "WeChat.app/" "VLC.app/" "Visual Studio Code.app/" "VirtualBox.app/" "uTorrent.app/" "Utilities/" "Time Machine.app/" "TextEdit.app/" "Texstudio.app/" "TeX/" "Telegram.app/" "Tableau.app/" "System Preferences.app/" "Stickies.app/" "Slack.app/" "Skype.app/" "Siri.app/" "Safari.app/" "RStudio.app/" "Reminders.app/" "R.app/" "QuickTime Player.app/" "QQ.app/" "PyCharm CE.app/" "Preview.app/" "Postgres.app/" "Photos.app/" "Photo Booth.app/" "pgAdmin 4.app/" "Pages.app/" "Opt/" "OneDrive.app/" "Numbers.app/" "Notes.app/" "NeteaseMusic.app/" "NetBeans 8.2.app/" "Neo4j Community.app/" "MySQLWorkbench.app/" "Mission Control.app/" "Microsoft Word.app/" "Microsoft PowerPoint.app/" "Microsoft Outlook.app/" "Microsoft OneNote.app/" "Microsoft Excel.app/" "Messages.app/" "MATLAB R2014b.app/" "Maps.app/" "Mail.app/" "MacVim.app/" "Launchpad.app/" "KingPlayer.app/" "Kindle.app/" "Keynote.app/" "iTunes.app/" "iTerm.app/" "IntelliJ IDEA CE.app/" "iMovie.app/" "Image Capture.app/" "iBooks.app/" "Google Photos.app/" "Google Chrome.app/" "Font Book.app/" "FaceTime.app/" "Evernote.app/" "Etcher.app/" "DVD Player.app/" "Dropbox.app/" "Downloader.app/" "Docker.app/" "Doc/" "Dictionary.app/" "Dashboard.app/" "CoverVersion.bundle/" "Contacts.app/" "CLion.app/" "Chess.app/" "Calendar.app/" "Calculator.app/" "Backup.app/" "AVG Cleaner.app/" "Automator.app/" "App Store.app/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/" (23028 47392 0 0) "xuqiang/" "Shared/" "Guest/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
